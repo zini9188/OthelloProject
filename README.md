@@ -30,7 +30,7 @@ GameSever 실행 후, 해당 서버에 접속하는 클라이언트는 게임 �
 | 게임 입장 | 돌 두기|
 |---|---|
 |![image](https://user-images.githubusercontent.com/83208807/231815240-702dbb07-c544-4dd9-a6c3-75a4caef71ef.png) ![image](https://user-images.githubusercontent.com/83208807/231815126-9cbb6f17-18fd-43bb-ab36-e0f8209c1a64.png) |![image](https://user-images.githubusercontent.com/83208807/231814795-b548cb12-3792-45c5-883f-4f7862695c1b.png) ![image](https://user-images.githubusercontent.com/83208807/231814913-b8d6c43c-f02c-4871-a683-0eadd370fea7.png)
-||빨간색 동그라미로 표시된 구역에 방의 이름이 표시되며 초기 게임은 슬라임 돌 2개, 핑크빈 돌 2개로 이루어집니다. <br> 게임은 핑크빈 돌을 가지는 유저가 선공을 얻게 됩니다. |  돌을 두게 되면 8방향으로 자신의 돌을 검사하게 되고, 사이에 있는 상대방의 돌은 자신의 돌이 됩니다.
+|빨간색 동그라미로 표시된 구역에 방의 이름이 표시되며 초기 게임은 슬라임 돌 2개, 핑크빈 돌 2개로 이루어집니다. <br> 게임은 핑크빈 돌을 가지는 유저가 선공을 얻게 됩니다. |  돌을 두게 되면 8방향으로 자신의 돌을 검사하게 되고, 사이에 있는 상대방의 돌은 자신의 돌이 됩니다.
 
 |무르기 | 무르기 수락 |
 |---|---|
